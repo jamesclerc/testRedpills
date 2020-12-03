@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outFile": "/dev/stdout",
+    "target": "ES6"
+  }
+}
